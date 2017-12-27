@@ -2583,7 +2583,7 @@
 #u211 {
   position:absolute;
   left:656px;
-  top:234px;
+  top:256px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -2766,7 +2766,7 @@
 #u226 {
   position:absolute;
   left:656px;
-  top:256px;
+  top:278px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -2789,7 +2789,7 @@
 #u228 {
   position:absolute;
   left:656px;
-  top:278px;
+  top:300px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -2812,7 +2812,7 @@
 #u230 {
   position:absolute;
   left:656px;
-  top:300px;
+  top:322px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -2826,6 +2826,29 @@
   height:21px;
 }
 #u231 {
+  position:absolute;
+  left:0px;
+  top:2px;
+  width:156px;
+  word-wrap:break-word;
+}
+#u232 {
+  position:absolute;
+  left:656px;
+  top:234px;
+  width:156px;
+  height:21px;
+  font-size:13px;
+  text-align:center;
+}
+#u232_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:156px;
+  height:21px;
+}
+#u233 {
   position:absolute;
   left:0px;
   top:2px;
