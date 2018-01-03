@@ -4301,3 +4301,29 @@
   width:156px;
   word-wrap:break-word;
 }
+#u345 {
+  position:absolute;
+  left:15px;
+  top:107px;
+  width:130px;
+  height:30px;
+  font-family:'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+}
+#u345_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:130px;
+  height:30px;
+}
+#u346 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:126px;
+  word-wrap:break-word;
+}
