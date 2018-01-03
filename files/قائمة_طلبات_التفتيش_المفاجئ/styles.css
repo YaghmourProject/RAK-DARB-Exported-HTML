@@ -3566,3 +3566,24 @@
   width:1px;
   height:1px;
 }
+#u284 {
+  position:absolute;
+  left:15px;
+  top:102px;
+  width:161px;
+  height:30px;
+}
+#u284_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:161px;
+  height:30px;
+  font-family:'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
