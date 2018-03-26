@@ -152,7 +152,7 @@
 #u12 {
   position:absolute;
   left:656px;
-  top:102px;
+  top:124px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -175,7 +175,7 @@
 #u14 {
   position:absolute;
   left:656px;
-  top:124px;
+  top:146px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -198,7 +198,7 @@
 #u16 {
   position:absolute;
   left:656px;
-  top:146px;
+  top:168px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -221,7 +221,7 @@
 #u18 {
   position:absolute;
   left:656px;
-  top:168px;
+  top:190px;
   width:156px;
   height:21px;
   font-size:14px;
@@ -245,7 +245,7 @@
 #u20 {
   position:absolute;
   left:656px;
-  top:190px;
+  top:212px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -4143,7 +4143,7 @@
 #u331 {
   position:absolute;
   left:656px;
-  top:256px;
+  top:300px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -4189,7 +4189,7 @@
 #u335 {
   position:absolute;
   left:656px;
-  top:212px;
+  top:234px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -4212,7 +4212,7 @@
 #u337 {
   position:absolute;
   left:656px;
-  top:278px;
+  top:322px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -4235,7 +4235,7 @@
 #u339 {
   position:absolute;
   left:656px;
-  top:300px;
+  top:344px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -4258,7 +4258,7 @@
 #u341 {
   position:absolute;
   left:656px;
-  top:322px;
+  top:366px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -4281,7 +4281,7 @@
 #u343 {
   position:absolute;
   left:656px;
-  top:234px;
+  top:256px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -4325,5 +4325,52 @@
   left:2px;
   top:7px;
   width:126px;
+  word-wrap:break-word;
+}
+#u347 {
+  position:absolute;
+  left:656px;
+  top:278px;
+  width:156px;
+  height:21px;
+  font-size:13px;
+  text-align:center;
+}
+#u347_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:156px;
+  height:21px;
+}
+#u348 {
+  position:absolute;
+  left:0px;
+  top:2px;
+  width:156px;
+  word-wrap:break-word;
+}
+#u349 {
+  position:absolute;
+  left:656px;
+  top:102px;
+  width:156px;
+  height:21px;
+  font-size:14px;
+  color:#1E1E1E;
+  text-align:center;
+}
+#u349_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:156px;
+  height:21px;
+}
+#u350 {
+  position:absolute;
+  left:0px;
+  top:2px;
+  width:156px;
   word-wrap:break-word;
 }

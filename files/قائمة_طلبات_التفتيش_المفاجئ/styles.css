@@ -152,7 +152,7 @@
 #u12 {
   position:absolute;
   left:656px;
-  top:102px;
+  top:124px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -175,7 +175,7 @@
 #u14 {
   position:absolute;
   left:656px;
-  top:124px;
+  top:146px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -198,7 +198,7 @@
 #u16 {
   position:absolute;
   left:656px;
-  top:146px;
+  top:168px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -221,7 +221,7 @@
 #u18 {
   position:absolute;
   left:656px;
-  top:168px;
+  top:190px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -244,7 +244,7 @@
 #u20 {
   position:absolute;
   left:656px;
-  top:190px;
+  top:212px;
   width:156px;
   height:21px;
   font-size:14px;
@@ -1377,7 +1377,7 @@
 #u104 {
   position:absolute;
   left:656px;
-  top:256px;
+  top:300px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -1423,7 +1423,7 @@
 #u108 {
   position:absolute;
   left:656px;
-  top:212px;
+  top:234px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -1446,7 +1446,7 @@
 #u110 {
   position:absolute;
   left:656px;
-  top:278px;
+  top:322px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -1469,7 +1469,7 @@
 #u112 {
   position:absolute;
   left:656px;
-  top:300px;
+  top:344px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -1492,7 +1492,7 @@
 #u114 {
   position:absolute;
   left:656px;
-  top:322px;
+  top:366px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -1515,7 +1515,7 @@
 #u116 {
   position:absolute;
   left:656px;
-  top:234px;
+  top:256px;
   width:156px;
   height:21px;
   font-size:13px;
@@ -3586,4 +3586,51 @@
   text-decoration:none;
   color:#000000;
   text-align:center;
+}
+#u285 {
+  position:absolute;
+  left:656px;
+  top:278px;
+  width:156px;
+  height:21px;
+  font-size:13px;
+  text-align:center;
+}
+#u285_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:156px;
+  height:21px;
+}
+#u286 {
+  position:absolute;
+  left:0px;
+  top:2px;
+  width:156px;
+  word-wrap:break-word;
+}
+#u287 {
+  position:absolute;
+  left:656px;
+  top:102px;
+  width:156px;
+  height:21px;
+  font-size:14px;
+  color:#1E1E1E;
+  text-align:center;
+}
+#u287_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:156px;
+  height:21px;
+}
+#u288 {
+  position:absolute;
+  left:0px;
+  top:2px;
+  width:156px;
+  word-wrap:break-word;
 }
