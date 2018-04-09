@@ -17,19 +17,19 @@
   left:10px;
   top:40px;
   width:780px;
-  height:480px;
+  height:320px;
 }
 #u0_img {
   position:absolute;
   left:0px;
   top:0px;
   width:780px;
-  height:480px;
+  height:320px;
 }
 #u1 {
   position:absolute;
   left:2px;
-  top:232px;
+  top:152px;
   width:776px;
   visibility:hidden;
   word-wrap:break-word;
@@ -37,7 +37,7 @@
 #u2 {
   position:absolute;
   left:408px;
-  top:470px;
+  top:320px;
   width:130px;
   height:30px;
   font-family:'Arial Bold', 'Arial';
@@ -63,7 +63,7 @@
 #u4 {
   position:absolute;
   left:262px;
-  top:470px;
+  top:320px;
   width:130px;
   height:30px;
   font-family:'Arial Bold', 'Arial';
