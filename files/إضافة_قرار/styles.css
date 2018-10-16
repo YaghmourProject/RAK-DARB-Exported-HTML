@@ -1228,3 +1228,29 @@
   width:317px;
   word-wrap:break-word;
 }
+#u90 {
+  position:absolute;
+  left:15px;
+  top:29px;
+  width:105px;
+  height:30px;
+  font-family:'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+}
+#u90_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:105px;
+  height:30px;
+}
+#u91 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:101px;
+  word-wrap:break-word;
+}

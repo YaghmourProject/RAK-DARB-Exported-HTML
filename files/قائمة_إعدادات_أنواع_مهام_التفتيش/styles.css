@@ -2848,3 +2848,29 @@
   width:111px;
   word-wrap:break-word;
 }
+#u217 {
+  position:absolute;
+  left:140px;
+  top:107px;
+  width:230px;
+  height:23px;
+  font-family:'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+}
+#u217_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:230px;
+  height:23px;
+}
+#u218 {
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:226px;
+  word-wrap:break-word;
+}

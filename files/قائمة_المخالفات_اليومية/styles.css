@@ -4203,3 +4203,27 @@
   width:156px;
   word-wrap:break-word;
 }
+#u331 {
+  position:absolute;
+  left:181px;
+  top:547px;
+  width:470px;
+  height:16px;
+  font-size:14px;
+  color:#FF0000;
+  text-align:right;
+}
+#u331_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:470px;
+  height:16px;
+}
+#u332 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:470px;
+  word-wrap:break-word;
+}
